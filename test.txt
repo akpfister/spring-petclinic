@@ -1,1 +1,1 @@
-Test 1, Trigger a build using git push.
+Test 1, trigger build on git push.
