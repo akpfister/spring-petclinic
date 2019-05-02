@@ -1,1 +1,2 @@
 Test 1, trigger a build with a push.
+Test 2, trigger a bild to see in Pipeline View.
